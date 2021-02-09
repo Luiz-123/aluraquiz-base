@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 const QuizContainer = styled.div`
+  //position:relative;
+  //left:22%;
   width: 100%;
   max-width: 350px;
   padding-top: 45px;

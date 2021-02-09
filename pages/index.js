@@ -46,7 +46,7 @@ export default function Home() {
         </title>
       </Head>
       <QuizContainer>
-        <QuizLogo />
+        {/*<QuizLogo />*/}
         <Widget
           as={motion.section}
           transition={{ delay: 0, duration: 0.5 }}
@@ -71,7 +71,7 @@ export default function Home() {
               <Input
                 name="nomeDoUsuario"
                 onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
-                placeholder="Diz ai seu nome"
+                placeholder="Informe o seu nome:"
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>
@@ -127,7 +127,7 @@ export default function Home() {
           animate="show"
         />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/omariosouto" />
+      {/*<GitHubCorner projectUrl="https://github.com/omariosouto" />*/}
     </QuizBackground>
   );
 }

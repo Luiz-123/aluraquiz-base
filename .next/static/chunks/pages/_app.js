@@ -10613,7 +10613,7 @@ __webpack_require__.r(__webpack_exports__);
 var _db_json__WEBPACK_IMPORTED_MODULE_5___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../db.json */ "./db.json", 1);
 
 
-var _jsxFileName = "C:\\imersao-react\\aluraquiz\\pages\\_app.js";
+var _jsxFileName = "C:\\imersao-react\\aluraquiz-base\\pages\\_app.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 function _templateObject() {
@@ -10762,7 +10762,7 @@ $RefreshReg$(_c2, "App");
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
-module.exports = __webpack_require__(/*! C:\imersao-react\aluraquiz\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! C:\imersao-react\aluraquiz-base\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ })
